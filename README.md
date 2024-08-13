@@ -1,2 +1,6 @@
-# modeling-PPI
+# Modeling PPI
 Modeling whether two proteins will interact via xgboost
+
+## Data Source
+Data from kaggle. Contains two csv files. Each file is structured with two primary protein sequences per row. One file for 
+https://www.kaggle.com/datasets/spandansureja/ppi-dataset
